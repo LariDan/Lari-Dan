@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+li.motanh {
+    float: left;
+    width: 262.5px;
+    margin: 15px;
+    list-style: none;
+}
+
+ul.khoito {
+    margin: auto;
+    width: 1170px;
+}
+
+ul.khoito li.motanh img {
+    border-radius: 3%;
+}
+.grid-item { width: 200px; }
+.grid-item--width2 { width: 400px; }
